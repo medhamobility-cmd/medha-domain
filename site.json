@@ -1,0 +1,29 @@
+{
+  "logo": "logo.png",
+  "hero_image": "",
+  "vehicles": [
+    {
+      "image": "dzire.webp",
+      "category": "SEDAN",
+      "name": "Maruti Suzuki Swift Dzire",
+      "seats": "4 passengers",
+      "description": "Everyday employee pick-ups and airport runs"
+    },
+    {
+      "image": "ertiga.webp",
+      "category": "SUV",
+      "name": "Maruti Suzuki Ertiga",
+      "seats": "6 passengers",
+      "description": "Shared shift routes and small teams"
+    },
+    {
+      "image": "xpres-t-ev.webp",
+      "category": "EV SEDAN",
+      "name": "Tata Xpres-T EV",
+      "seats": "4 passengers",
+      "description": "Zero-emission corporate mobility"
+    }
+  ],
+  "gallery_title": "Medha Mobility on the road.",
+  "gallery": []
+}
